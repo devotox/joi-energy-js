@@ -52,7 +52,7 @@ describe('Price plan comparator controller' , () => {
         ];
 
         const readingJson = {
-            "smartMeterId": "meter-103",
+            "smartMeterId": "smart-meter-103",
             "electricityReadings": readings
         }
 
